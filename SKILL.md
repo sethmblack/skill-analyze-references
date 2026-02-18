@@ -3,8 +3,9 @@ name: analyze-references
 description: Audit a references.md file to verify that all cited URLs are real, accessible, and actually support the claims attributed to them.
 license: MIT
 metadata:
+  version: 1.0.3383
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - analyze-references
 - writing
